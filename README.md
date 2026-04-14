@@ -1,58 +1,57 @@
-# Hi, I'm Abdullah Abu Amara 👋
-
-I'm a Data Science student passionate about building intelligent systems and turning data into meaningful insights.
+# Abdallah Abuamara
 
 ---
 
-## About me
-
-- 🎓 Studying Computer Science with a focus on Artificial Intelligence & Data Science
-- 🤖 Interested in machine learning, search algorithms, and AI problem-solving
-- 🧩 Currently working on AI assignments including search algorithms and optimization problems
-- 📍 Based in Jordan
+## 🚀 About Me
+* $\color{00FFFF}{\text{Role:}}$ Undergraduate Data Science Student  
+* $\color{00FFFF}{\text{Focus:}}$ $\color{FF69B4}{\text{Machine Learning}}$, $\color{FF69B4}{\text{MLOps}}$, and applied data-driven solutions  
+* $\color{00FFFF}{\text{Interests:}}$ Building models, solving real-world problems, and participating in data competitions  
 
 ---
 
-## Skills
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools & Libraries**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**AI & Algorithms**
-- A* Search, BFS, DFS, Uniform Cost Search
-- Machine Learning (supervised & unsupervised)
-- Data analysis and visualization
+## 🧠 Technical Skills
+* $\color{00FFFF}{\text{Languages:}}$ Python, C++  
+* $\color{00FFFF}{\text{Libraries:}}$ $\color{FF69B4}{\text{Pandas}}$, $\color{FF69B4}{\text{NumPy}}$, $\color{FF69B4}{\text{Scikit-learn}}$  
+* $\color{00FFFF}{\text{ML Models:}}$ $\color{FF69B4}{\text{Random Forest}}$, $\color{FF69B4}{\text{XGBoost}}$, $\color{FF69B4}{\text{KNN}}$  
+* $\color{00FFFF}{\text{Concepts:}}$ Feature Engineering, Model Evaluation, Data Preprocessing  
+* $\color{00FFFF}{\text{Tools:}}$ Git, GitHub  
 
 ---
 
-## Projects
+## 📊 Projects
+* $\color{00FFFF}{\text{Recommendation System:}}$  
+  * Built a system using $\color{FF69B4}{\text{Instacart Market Basket Analysis}}$ dataset  
+  * Focused on feature engineering and preventing $\color{FF3333}{\text{data leakage}}$  
 
-| Project | Description | Tech |
-|---|---|---|
-| [8-Puzzle Solver](./8puzzle.ipynb) | Solves the 8-puzzle problem using A* search with Manhattan distance heuristic | Python, AIMA |
-
----
-
-## Currently learning
-
-- Constraint Satisfaction Problems (CSP)
-- Adversarial search & game playing
-- Probability and Bayesian networks
+* $\color{00FFFF}{\text{Data Competitions:}}$  
+  * Participated in global data science challenges  
+  * Applied ML models to real-world datasets  
 
 ---
 
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email-here)
+## 🏆 Achievements
+* $\color{00FFFF}{\text{Machine Learning:}}$ Completed core ML coursework with strong performance  
+* $\color{00FFFF}{\text{Community:}}$ Contributed to student-led data initiatives and technical activities  
 
 ---
 
-*"Data is the new oil — but only if you know how to refine it."*
+## 🛠️ Current Focus
+* $\color{00FFFF}{\text{Learning:}}$ Improving $\color{FF69B4}{\text{MLOps}}$ and deployment skills  
+* $\color{00FFFF}{\text{Practice:}}$ Strengthening $\color{FF69B4}{\text{Pandas}}$ and $\color{FF69B4}{\text{NumPy}}$  
+* $\color{00FFFF}{\text{Goal:}}$ Building scalable and production-ready ML systems  
+
+---
+
+## 🎯 Interests Beyond Tech
+* $\color{00FFFF}{\text{Entertainment:}}$ Watching high-quality TV series  
+* $\color{00FFFF}{\text{Sports:}}$ Football analytics, Fantasy Premier League, Formula 1  
+
+---
+
+## 📫 Contact
+* $\color{00FFFF}{\text{GitHub:}}$ https://github.com/your-username  
+* $\color{00FFFF}{\text{LinkedIn:}}$ Add your profile here  
+
+---
+
+⭐ *Always learning. Always building.*
