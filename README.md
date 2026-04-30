@@ -1,1 +1,32 @@
-$\color{00FFFF}{\text{Role:}}$ $\color{FF69B4}{\text{Data Scientist}}$ and $\color{FF69B4}{\text{AI Specialist}}$$\color{00FFFF}{\text{Mission:}}$ Transforming raw datasets into actionable intelligence.$\color{00FFFF}{\text{Core Languages:}}$ $\color{FF69B4}{\text{Python}}$$\color{00FFFF}{\text{Algorithms:}}$ $\color{FF69B4}{\text{XGBoost}}$, $\color{FF69B4}{\text{Random Forest}}$, $\color{FF69B4}{\text{SVM}}$, $\color{FF69B4}{\text{KNN}}$$\color{00FFFF}{\text{AI Ecosystem:}}$ $\color{FF69B4}{\text{GitHub Copilot}}$, $\color{FF69B4}{\text{Google AI Pro}}$, $\color{FF69B4}{\text{ChatGPT Plus}}$$\color{00FFFF}{\text{Development:}}$ $\color{FF69B4}{\text{Codeforces}}$, $\color{FF69B4}{\text{LeetCode}}$, $\color{FF69B4}{\text{Overleaf}}$$\color{00FFFF}{\text{Market Analysis:}}$ Engineered features for $\color{FF69B4}{\text{Instacart Market Basket}}$ binary classification.$\color{00FFFF}{\text{Predictive Modeling:}}$ Developed regression pipelines for the $\color{FF69B4}{\text{Ames Housing}}$ dataset optimizing for RMSLE.$\color{00FFFF}{\text{Global Datathons:}}$ Analyzed wildfire impact datasets in the $\color{FF69B4}{\text{9th Annual WiDS Datathon}}$.$\color{FF3333}{\text{Warning:}}$ Ensure your profile repository is set to public for these statistics to compile accurately.$\color{00FFFF}{\text{Strategic Optimization:}}$ Applying data-driven tactics in $\color{FF69B4}{\text{Fantasy Premier League}}$.
+<div align="center">
+  <h1>Hi there, I'm Abdullah Abu Amara 👋</h1>
+  <h3>Data Scientist | AI Specialist</h3>
+  <p><i>Transforming raw datasets into actionable intelligence.</i></p>
+
+  <br />
+
+  <h3>⚙️ Technical Arsenal</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-2EA043?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Copilot" />
+  </p>
+
+  <br />
+
+  <h3>📊 Performance Metrics</h3>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Abu-Amara&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Abu-Amara&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Abu-Amara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
+</div>
