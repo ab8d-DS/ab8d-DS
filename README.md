@@ -1,124 +1,73 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Abdullah%20Abu%20Amara&fontSize=42&fontAlignY=36&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
+  <h2>Abdullah Abu Amara</h2>
+  <p><i>Data Scientist | Machine Learning Engineer</i></p>
+  <p><code>>_ building smarter models, one dataset at a time</code></p>
 </div>
 
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=E91E8C&center=true&vCenter=true&multiline=false&width=600&lines=Transforming+raw+data+into+real+insights+%F0%9F%93%8A;Building+smarter+models%2C+one+dataset+at+a+time+%F0%9F%A4%96;Always+learning%2C+always+improving+%F0%9F%9A%80)](https://git.io/typing-svg)
+**About Me**
+---
+Hi, I'm Abdullah — a passionate Data Scientist and Machine Learning enthusiast based in Jordan. I love turning messy, complex datasets into clear, actionable intelligence that drives real decisions.
 
-</div>
+* **Focus:** Currently focusing on end-to-end ML pipelines.
+* **Learning:** Supervised learning and Unsupervised Learning practices.
+* **Interests:** Classical Models and predictive analytics.
+* **Reach me at:** abdawdsdwjd@gmail.com
+* **Fun Fact:** I believe every dataset has a story — you just need the right model to tell it.
 
+<br>
+
+**Technical Arsenal**
 ---
 
-## 👋 About Me
+| **Languages & Core Tools** | **Machine Learning** | **Data & Visualization** | **Platforms & Environment** |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| | | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) |
+| | | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black) | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
+| | | ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=flat&logo=seaborn&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white) |
 
-Hi, I'm **Abdullah** — a passionate **Data Scientist** and **Machine Learning enthusiast** based in Jordan. I love turning messy, complex datasets into clear, actionable intelligence that drives real decisions.
+<br>
 
-- 🔭 Currently focusing on **end-to-end ML pipelines**
-- 🌱 Learning **Supervised learning** and **Unsupervised Learning** practices
-- 💡 Interested in **Classical Models**, and **predictive analytics**
-- 📫 Reach me at: *aboodplusjo@gmail.com*
-- ⚡ Fun fact: I believe every dataset has a story — you just need the right model to tell it
-
+**GitHub Performance & Achievements**
 ---
 
-## 🛠️ Technical Arsenal
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab8d-DS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-### Languages & Core Tools
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&theme=tokyonight&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</p>
 
-</div>
+<br>
 
-### Machine Learning & Data Science
-<div align="center">
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-### Data & Visualization
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-### Platforms & Environment
-<div align="center">
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
+**Connect With Me**
 ---
 
-## 📊 GitHub Performance
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:abdawdsdwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E91E8C&icon_color=E91E8C&text_color=ffffff&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E91E8C&text_color=ffffff&langs_count=6" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ab8d-DS&theme=radical&hide_border=true&background=0d1117&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C" height="180"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&bg_color=0d1117&color=E91E8C&line=E91E8C&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-abuamara-54683b292/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ab8d06)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboodplusjo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ab8d-DS)
-
-</div>
-
+**End of Output**
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-![Profile Views](https://komarev.com/ghpvc/?username=ab8d-DS&color=E91E8C&style=flat-square&label=Profile+Views)
-
+  <blockquote>
+    <i>"Without data, you're just another person with an opinion."</i><br>
+    — W. Edwards Deming
+  </blockquote>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ab8d-DS&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
