@@ -1,32 +1,36 @@
-<div align="center">
-  <h1>Hi there, I'm Abdullah Abu Amara 👋</h1>
-  <h3>Data Scientist | Machine Learning</h3>
-  <p><i>Transforming raw datasets into actionable intelligence.</i></p>
+# Hi there, I'm Abdullah Abu Amara 👋
 
-  <br />
+## Data Scientist | Applied Machine Learning Specialist
+*Transforming raw datasets into actionable intelligence through robust engineering pipelines.*
 
-  <h3>⚙️ Technical Arsenal</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-    <img src="https://img.shields.io/badge/GitHub_Copilot-2EA043?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Copilot" />
-  </p>
+---
 
-  <br />
+### 🚀 **Quick Overview**
+* 🧠 Currently focusing on **End-to-End MLOps** and **Predictive Modeling**.
+* 📊 Lead Administrator at **DataSphere Society**, managing technical workshops and community engagement.
+* 🏆 Active in **Kaggle** competitions and **WiDS Datathons**.
+* ⚡ Tech Stack: Deeply proficient in the $\color{FF69B4}{\text{Python Ecosystem}}$ for Data Science.
 
-  <h3>📊 Performance Metrics</h3>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab8d-DS&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
-</div>
+---
+
+### ⚙️ **Technical Arsenal**
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white) |
+| **Tools/MLOps** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### 📈 **Performance Metrics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab8d-DS&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛠️ **Featured Projects**
+* **Instacart Market Basket Analysis:** End-to-end binary classification pipeline with advanced feature engineering.
+* **Wildfire Impact Prediction:** Participated in the 9th Annual WiDS Datathon focusing on survival analysis.
+* **8-Puzzle Solver:** Implementation of the A* search algorithm for optimized pathfinding.
