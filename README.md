@@ -1,143 +1,113 @@
-# 🚀 Futuristic GitHub Profile README — Abdullah Abu Amara
-
-````md
 <div align="center">
 
-# Abdullah Abu Amara
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer;Building+Intelligent+Systems;Turning+Data+Into+Predictions;Python+%7C+Machine+Learning+%7C+AI" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:06b6d4&height=220&section=header&text=ABDULLAH%20ABU%20AMARA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20Machine%20Learning%20Engineer&descAlignY=58" width="100%"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=06b6d4&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=38bdf8" />
-</p>
-
-</div>
-
----
-
-# ⚡ About Me
-
-```yaml
-Name: Abdullah Abu Amara
-Role: Data Scientist / ML Engineer
-Education: Data Science Student @ JUST
-Focus:
-  - Machine Learning
-  - Data Analytics
-  - Predictive Modeling
-  - AI Systems
-Currently Learning:
-  - Advanced ML Workflows
-  - Deep Learning
-  - Real-World Data Pipelines
-Goal:
-  - Build intelligent systems that solve real problems
-````
-
----
-
-# 🧠 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,jupyter,mysql" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/ScikitLearn-111827?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Abdullah%20Abu%20Amara&fontSize=42&fontAlignY=36&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=E91E8C&center=true&vCenter=true&multiline=false&width=600&lines=Transforming+raw+data+into+real+insights+%F0%9F%93%8A;Building+smarter+models%2C+one+dataset+at+a+time+%F0%9F%A4%96;Always+learning%2C+always+improving+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 👋 About Me
 
+Hi, I'm **Abdullah** — a passionate **Data Scientist** and **Machine Learning enthusiast** based in Jordan. I love turning messy, complex datasets into clear, actionable intelligence that drives real decisions.
+
+- 🔭 Currently focusing on **end-to-end ML pipelines**
+- 🌱 Learning **Supervised learning** and **Unsupervised Learning** practices
+- 💡 Interested in **Classical Models**, and **predictive analytics**
+- 📫 Reach me at: *aboodplusjo@gmail.com*
+- ⚡ Fun fact: I believe every dataset has a story — you just need the right model to tell it
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages & Core Tools
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Machine Learning & Data Science
+<div align="center">
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+### Data & Visualization
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Platforms & Environment
+<div align="center">
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-# 🚀 Current Mission
+## 📊 GitHub Performance
 
 <div align="center">
 
-| Project                       | Status      |
-| ----------------------------- | ----------- |
-| End-to-End ML Pipelines       | 🟢 Active   |
-| Predictive Analytics Projects | 🟢 Building |
-| Advanced Data Science Skills  | 🟢 Grinding |
-| Deep Learning Exploration     | 🟡 Starting |
+<img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E91E8C&icon_color=E91E8C&text_color=ffffff&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E91E8C&text_color=ffffff&langs_count=6" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ab8d-DS&theme=radical&hide_border=true&background=0d1117&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C" height="180"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# 🌌 Featured Quote
+## 📈 Contribution Activity
 
 <div align="center">
 
-> “Without data, you're just another person with an opinion.”
-> — W. Edwards Deming
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&bg_color=0d1117&color=E91E8C&line=E91E8C&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<a href="https://www.kaggle.com/">
-  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-abuamara-54683b292/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ab8d06)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboodplusjo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ab8d-DS)
 
 </div>
 
@@ -145,44 +115,10 @@ Goal:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-### ⚡ Building the future with data & intelligence.
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+![Profile Views](https://komarev.com/ghpvc/?username=ab8d-DS&color=E91E8C&style=flat-square&label=Profile+Views)
 
 </div>
-```
-
-# 🔧 What You Need To Change
-
-Replace these placeholders:
-
-* `YOUR_USERNAME` → your GitHub username
-* `YOUR_EMAIL@gmail.com` → your real email
-* Add your LinkedIn and Kaggle links if you want
-
-# 💡 Why This README Looks Much Better
-
-* Modern cyberpunk / ML engineer aesthetic
-* Animated typing header
-* Clean professional structure
-* Advanced GitHub stat cards
-* Better spacing and visual hierarchy
-* Looks premium on dark mode
-* More recruiter-friendly
-* Feels like a real ML engineer profile instead of a template
-
-# ⭐ Extra Recommendation
-
-Use this profile picture style:
-
-* Dark background
-* Sharp lighting
-* Minimal colors
-* Professional or tech aesthetic
-
-And pin your best repositories:
-
-1. ML Project
-2. Data Analysis Project
-3. Python Automation
-4. Kaggle-style Notebook
