@@ -16,10 +16,10 @@
 
 Hi, I'm **Abdullah** — a passionate **Data Scientist** and **Machine Learning enthusiast** based in Jordan. I love turning messy, complex datasets into clear, actionable intelligence that drives real decisions.
 
-- 🔭 Currently working on **end-to-end ML pipelines**
-- 🌱 Learning **deep learning** and **MLOps** practices
-- 💡 Interested in **NLP**, **computer vision**, and **predictive analytics**
-- 📫 Reach me at: *your-email@example.com*
+- 🔭 Currently focusing on **end-to-end ML pipelines**
+- 🌱 Learning **Supervised learning** and **Unsupervised Learning** practices
+- 💡 Interested in **Classical Models**, and **predictive analytics**
+- 📫 Reach me at: *aboodplusjo@gmail.com*
 - ⚡ Fun fact: I believe every dataset has a story — you just need the right model to tell it
 
 ---
@@ -114,9 +114,9 @@ Hi, I'm **Abdullah** — a passionate **Data Scientist** and **Machine Learning 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdullah-abuamara-54683b292/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://kaggle.com/your-profile](https://www.kaggle.com/ab8d06))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboodplusjo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ab8d-DS)
 
 </div>
