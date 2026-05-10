@@ -1,88 +1,45 @@
-<br>
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoHlWkEUyvUmc/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 12px; border: 2px solid #00FFFF;"/>
-</div>
-<br>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Abdullah+Abu+Amara+%7C+Data+Scientist;Extracting+Signal+From+Noise+%F0%9F%94%8D;Architecting+Intelligent+Pipelines+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:1b1d3a,70:2d1457,100:E91E8C&text=ABDULLAH%20ABU%20AMARA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20•%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descSize=18"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3200&pause=800&color=E91E8C&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+From+Data+⚡;Machine+Learning+%7C+Predictive+Analytics+%7C+AI+🧠;Always+Learning.+Always+Building.+🚀"/>
 
-<b><h2 align="center">EXECUTIVE SUMMARY</h2></b>
-<hr>
+<br><br>
 
-<table width="100%">
-  <tr>
-    <td width="60%">
-      <br>
-      <b>📍 Mission Control:</b> Jordan 🇯🇴 <br><br>
-      <b>🎯 Objective:</b> Turning chaotic, high-dimensional datasets into actionable intelligence.<br><br>
-      <b>⚙️ Current Focus:</b> Architecting end-to-end ML pipelines and deploying predictive models.<br><br>
-      <b>🧠 Core Philosophy:</b> Every dataset has a story — you just need the right model to tell it.<br><br>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="220" style="border-radius: 10px; border: 1px solid #FF69B4;"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ab8d-DS">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E91E8C"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/abdullah-abuamara-54683b292/">
+<img src="https://img.shields.io/badge/LinkedIn-E91E8C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<b><h2 align="center">TECHNICAL INFRASTRUCTURE</h2></b>
-<hr>
+<a href="https://www.kaggle.com/ab8d06">
+<img src="https://img.shields.io/badge/Kaggle-00BFFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-<table width="100%">
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
-  </tr>
-</table>
+<a href="mailto:aboodplusjo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ff3b7a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>
-
-<b><h2 align="center">SYSTEM ANALYTICS</h2></b>
-<hr>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FF69B4" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFFF" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=ab8d-DS&theme=tokyonight&hide_border=true&background=00000000&ring=00FFFF&fire=FF69B4&currStreakLabel=00FFFF" width="60%"/>
 </div>
 
-<br>
+---
 
-<b><h2 align="center">COMMUNICATION CHANNELS</h2></b>
-<hr>
+# ⚡ About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-abuamara-54683b292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/ab8d06"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:aboodplusjo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-<br>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0cDZobDR3djR3dGx5bGQ2MXM2aWhjMTR3YjR5MnQ5bnhvY2Q4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```yaml
+Name: Abdullah Abu Amara
+Location: Jordan 🇯🇴
+Field: Data Science & Machine Learning
+
+Focus:
+  - Machine Learning Pipelines
+  - Predictive Analytics
+  - Feature Engineering
+  - Data Visualization
+
+Current Goal:
+  Building portfolio-level ML projects
