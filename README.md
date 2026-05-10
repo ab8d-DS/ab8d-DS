@@ -1,151 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,6&height=200&text=%F0%9F%9B%B8%20ABDULLAH%20ABU%20AMARA&fontSize=40&fontColor=ffffff&animation=scaleIn&fontAlignY=55&desc=Data%20Scientist%20%2F%2F%20ML%20Engineer%20%2F%2F%20Jordan%20%F0%9F%87%AF%F0%9F%87%B4&descAlignY=75&descSize=16" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=680&lines=%5B+INITIALIZING+DATA+SCIENCE+PROTOCOLS...+%5D;%5B+LOADING+ML+PIPELINE...+COMPLETE+%E2%9C%93+%5D;%5B+SIGNAL+DETECTED+IN+THE+NOISE+%F0%9F%94%8D+%5D;%5B+READY+TO+TRANSFORM+YOUR+DATA+%F0%9F%9A%80+%5D" alt="Typing SVG"/>
-</div>
+<img src="https://raw.githubusercontent.com/ab8d-DS/ab8d-DS/main/matrix-header.gif" onerror="this.onerror=null; this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkMDFjZjM4Y2UxMjZkZDNhZDU5Y2NjY2QxZTBjNjE3Y2NhNDVkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xTiTnxpQ3ghPiB2Hp6/giphy.gif';" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Data Matrix Animation"/>
 
-<br>
+# **Abdullah Abu Amara**
+### **Data Scientist | Machine Learning Engineer**
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=700&lines=Building+end-to-end+ML+Pipelines+%E2%9A%99%EF%B8%8F;Turning+Complex+Data+into+Actionable+Intelligence+%F0%9F%94%8D;Predictive+Modeling+%26+MLOps+Enthusiast+%F0%9F%9A%80" alt="Typing Animation" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/%E2%96%BA_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-abuamara-54683b292/)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/%E2%96%BA_Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ab8d06)
-&nbsp;
-[![Email](https://img.shields.io/badge/%E2%96%BA_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aboodplusjo@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/%E2%96%BA_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ab8d-DS)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=ab8d-DS&color=00F5FF&style=flat-square&label=VISITORS)
+<p align="center">
+  <a href="mailto:aboodplusjo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-abuamara-54683b292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/ab8d06"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</p>
 
 </div>
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        // MISSION LOG //                            │
-│                                                                     │
-│  AGENT     →  Abdullah Abu Amara                                    │
-│  ROLE      →  Data Scientist & Machine Learning Engineer            │
-│  BASE      →  Amman, Jordan 🇯🇴                                      │
-│  CONTACT   →  aboodplusjo@gmail.com                                 │
-│                                                                     │
-│  PRIMARY MISSION   → Turn raw, chaotic data into clear decisions    │
-│  CURRENT OPS       → End-to-end ML pipelines & predictive models   │
-│  IN TRAINING       → Supervised & Unsupervised Learning mastery     │
-│  BELIEF SYSTEM     → Every dataset has a story. Find it.           │
-└─────────────────────────────────────────────────────────────────────┘
-```
+## 🚀 About Me
+
+Hi, I'm **Abdullah** — a passionate **Data Scientist** based in Jordan. I specialize in turning messy, complex datasets into clear, actionable intelligence that drives real decisions. 
+
+- 🔭 Currently focusing on **end-to-end ML pipelines** and model deployment.
+- 🏢 Lead Administrator & Social Media Manager for the **DataSphere Society**.
+- 🌱 Deepening my expertise in **Supervised/Unsupervised Learning** and **MLOps**.
+- 💡 Highly interested in **Classical AI Models**, feature engineering, and **predictive analytics**.
+- ⚡ Fun fact: I believe every dataset has a story — you just need the right model to tell it.
 
 ---
 
-## ⚡ POWER LEVELS
+## 🧠 Featured Technical Projects
 
-<div align="center">
-
-| SKILL | LEVEL | STATUS |
-|:------|:------|:------:|
-| 🐍 &nbsp; Python | `▰▰▰▰▰▰▰▰▰▱` 90% | 🟢 ACTIVE |
-| 📊 &nbsp; Pandas & NumPy | `▰▰▰▰▰▰▰▰▱▱` 82% | 🟢 ACTIVE |
-| 🤖 &nbsp; Scikit-Learn | `▰▰▰▰▰▰▰▱▱▱` 75% | 🟢 ACTIVE |
-| 📈 &nbsp; Matplotlib & Seaborn | `▰▰▰▰▰▰▰▱▱▱` 73% | 🟢 ACTIVE |
-| 🔬 &nbsp; Feature Engineering | `▰▰▰▰▰▰▱▱▱▱` 62% | 🟡 LEVELING |
-| ☁️ &nbsp; ML Deployment | `▰▰▰▱▱▱▱▱▱▱` 30% | 🔵 TRAINING |
-
-</div>
+| Project Domain | Description | Technical Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Instacart Market Basket Analysis](#)** | Engineered features and generated candidates for binary classification to predict user purchasing behavior. | `Python`, `Scikit-Learn`, `Pandas` | 🟢 Completed |
+| **[Wildfire Impact Prediction](#)** | Developed predictive modeling and survival analysis targets for the WiDS Datathon. | `NumPy`, `Matplotlib`, `Seaborn` | 🟢 Completed |
+| **[Classical AI Search Algorithms](#)** | Implemented the A* Search algorithm from scratch to computationally solve the 8-puzzle problem. | `Python`, `Algorithms`, `Logic` | 🟢 Completed |
 
 ---
 
-## 🛠️ ARSENAL
+## 🛠️ Technical Arsenal
 
+### Languages & Core Tools
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### Machine Learning & Data Science
+<div align="center">
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+### Data Visualization & Environments
+<div align="center">
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📡 OPERATION FLOW
-
-```
-  INPUT               PROCESS                          OUTPUT
-  ─────               ───────                          ──────
-
-  📂 Raw Data    ──►  🔍 Explore & Question       ──►
-  🗄️ CSV / DB    ──►  🧹 Clean & Engineer         ──►  📊 Clear Insights
-  🌐 Web Data    ──►  🤖 Train & Tune Model        ──►  📋 Smart Reports
-  📋 Surveys     ──►  ✅ Validate & Evaluate       ──►  💡 Real Decisions
-                      📢 Communicate Results      ──►
-```
-
----
-
-## 📊 SYSTEM METRICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=ffffff&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&langs_count=5" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com/?user=ab8d-DS&theme=radical&hide_border=true&background=0D0D0D&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=ab8d-DS&theme=radical&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="180"/>
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&bg_color=0D0D0D&color=00F5FF&line=FF006E&point=ffffff&area=true&hide_border=true&radius=6" width="100%"/>
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 🏆 Trophies & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-</div>
 
----
-
-## 🗺️ WHAT'S NEXT
-
-<details>
-<summary><b>[ EXPAND MISSION ROADMAP ]</b></summary>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-| Phase | Mission | Status |
-|:---:|:---|:---:|
-| 01 | Python fundamentals · EDA · Visualization | ✅ Complete |
-| 02 | Regression · Classification · Clustering | ✅ Complete |
-| 03 | Supervised Learning (deep dive) | 🔄 Active |
-| 04 | Unsupervised Learning & Dimensionality Reduction | 🔄 Active |
-| 05 | Feature Engineering & Model Evaluation | 🔄 Active |
-| 06 | ML Deployment & MLOps | 🎯 Queued |
-| 07 | Deep Learning Fundamentals | 🎯 Queued |
-| 08 | NLP & Time Series | 🎯 Queued |
-| 09 | Cloud ML (AWS / GCP) | 🎯 Queued |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&hide_border=true" width="100%"/>
 
-</details>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,6&height=130&section=footer&animation=fadeIn&desc=%22Without%20data%2C%20you%27re%20just%20another%20person%20with%20an%20opinion.%22%20%E2%80%94%20W.%20Edwards%20Deming&descAlignY=55&descSize=14&fontColor=ffffff" width="100%"/>
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+![Profile Views](https://komarev.com/ghpvc/?username=ab8d-DS&color=00FFFF&style=flat-square&label=Profile+Views)
+
 </div>
