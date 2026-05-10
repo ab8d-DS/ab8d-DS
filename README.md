@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117&height=180&section=header&text=Abdullah%20Abu%20Amara&fontSize=48&fontColor=E91E8C&animation=fadeIn&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20Engineer&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=013243&height=180&section=header&text=Abdullah%20Abu%20Amara&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=DATA%20SCIENTIST%20%7C%20MACHINE%20LEARNING%20ENGINEER&descSize=16&descColor=00FFFF" width="100%"/>
 
-<br>
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=E91E8C&center=true&vCenter=true&width=600&lines=Transforming+raw+data+into+real+insights+%F0%9F%93%8A;Building+smarter+models%2C+one+dataset+at+a+time+%F0%9F%A4%96;Always+learning%2C+always+improving+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=650&lines=Transforming+raw+data+into+real+insights+%F0%9F%93%8A;Building+smarter+models%2C+one+dataset+at+a+time+%F0%9F%A4%96;Always+learning%2C+always+improving+%F0%9F%9A%80" alt="Typing Animation" />
 </a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/abdullah-abuamara-54683b292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/ab8d06"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="mailto:aboodplusjo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ab8d-DS"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:aboodplusjo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-abuamara-54683b292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/ab8d06"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://github.com/ab8d-DS"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -21,21 +23,27 @@
 
 ---
 
+<h2 align="center"><b> ⚙️ SYSTEM OVERVIEW </b></h2>
+
+<br>
+
 <div align="center">
-  
-> ### 👋 Hi, I'm Abdullah. 
-> **Passionate Data Scientist & Machine Learning Enthusiast based in Jordan 🇯🇴**<br>
+
+> **Hi, I'm Abdullah — a passionate Data Scientist and Machine Learning enthusiast based in Jordan.**
+> 
 > *I love turning messy, complex datasets into clear, actionable intelligence that drives real decisions.*
 
 <br>
 
-| 🔭 **Current Focus** | 🌱 **Active Learning** |
-| :--- | :--- |
-| Building **end-to-end ML pipelines** | **Supervised** & **Unsupervised** Learning |
+| 🔍 Current Operations | 🌱 Skill Acquisition |
+| :---: | :---: |
+| Focusing on **end-to-end ML pipelines** | Learning **Supervised** & **Unsupervised Learning** |
 
-| 💡 **Core Interests** | ⚡ **Philosophy** |
-| :--- | :--- |
-| **Classical Models** & Predictive Analytics | Every dataset has a story — you just need the right model to tell it. |
+<br>
+
+| 💡 Domain Interests | ⚡ Core Philosophy |
+| :---: | :---: |
+| **Classical Models** & **Predictive Analytics** | Every dataset has a story — you just need the right model to tell it. |
 
 </div>
 
@@ -43,31 +51,36 @@
 
 ---
 
-<h3 align="center">✦ TECHNICAL ARSENAL ✦</h3>
-
-<div align="center">
+<h2 align="center"><b> 🛠️ TECHNOLOGY PIPELINE </b></h2>
 
 <br>
 
-**` 01 / CORE & ML `**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28" />
+<div align="center">
 
-<br><br>
+<h3><b> 1. Programming & Modeling </b></h3>
 
-**` 02 / DATA & VISUALIZATION `**<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-<br><br>
+<h3><b> 2. Data Processing & Visualization </b></h3>
 
-**` 03 / PLATFORMS & WORKSPACE `**<br>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="28" />
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h3><b> 3. Execution Environments </b></h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
 
 </div>
 
@@ -75,16 +88,19 @@
 
 ---
 
-<h3 align="center">✦ PERFORMANCE TELEMETRY ✦</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E91E8C&icon_color=E91E8C&text_color=ffffff&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E91E8C&text_color=ffffff&langs_count=6" height="170"/>
+<h2 align="center"><b> 📊 REPOSITORY METRICS </b></h2>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=ab8d-DS&theme=radical&hide_border=true&background=0d1117&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C" height="170"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ab8d-DS&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab8d-DS&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&langs_count=6" height="170" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ab8d-DS&theme=nord&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="170" />
 
 </div>
 
@@ -92,15 +108,17 @@
 
 ---
 
-<h3 align="center">✦ MILESTONES & ACTIVITY ✦</h3>
+<h2 align="center"><b> 📈 CONTRIBUTION FREQUENCY </b></h2>
+
+<br>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&hide_border=true" width="100%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab8d-DS&bg_color=0d1117&color=E91E8C&line=E91E8C&point=ffffff&hide_border=true" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ab8d-DS&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -110,13 +128,15 @@
 
 <div align="center">
 
-<i>"Without data, you're just another person with an opinion."</i><br>
-<b>— W. Edwards Deming</b>
+*"Without data, you're just another person with an opinion."*
+<br><b>— W. Edwards Deming</b>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ab8d-DS&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ab8d-DS&color=E91E8C&style=flat-square&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=013243&height=60&section=footer" width="100%"/>
 
 </div>
