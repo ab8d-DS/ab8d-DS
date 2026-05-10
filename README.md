@@ -1,12 +1,20 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HEADER BANNER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div>
+  
+  <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Data Science Matrix GIF" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,4,2&height=190&text=Abdullah%20Abu%20Amara&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Jordan%20%F0%9F%87%AF%F0%9F%87%B4&descAlignY=75&descSize=17" width="100%"/>
+  <h2><b>Abdullah Abu Amara</b></h2>
+  <i>Data Scientist | Machine Learning Engineer</i>
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FF69B4&vCenter=true&multiline=true&width=500&height=140&lines=>_import+machine_learning+as+ml;>_pipeline+=+ml.build_architecture();>_pipeline.fit(raw_data,+innovation);>_System+status:+Ready+for+deployment_" alt="Console Typing Animation" />
+  </a>
+
 </div>
 
-<br>
+<br clear="both"/>
+
+---
 
 <div align="center">
   <a href="https://git.io/typing-svg">
