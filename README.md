@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Abdullah%20Abu%20Amara&fontSize=42&fontAlignY=36&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00FFFF,FF69B4&height=200&section=header&text=Abdullah%20Abu%20Amara&fontSize=48&fontAlignY=40&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=62&descSize=20&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 </div>
 
 <div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=750&lines=Architecting+Robust+ML+Pipelines+%E2%9A%99%EF%B8%8F;Engineering+Features%2C+Deploying+Models+%F0%9F%9A%80;Translating+Data+Into+Decisions+%F0%9F%93%8A" alt="Typing Animation" />
+</a>
+
+</div>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=E91E8C&center=true&vCenter=true&multiline=false&width=600&lines=Transforming+raw+data+into+real+insights+%F0%9F%93%8A;Building+smarter+models%2C+one+dataset+at+a+time+%F0%9F%A4%96;Always+learning%2C+always+improving+%F0%9F%9A%80)](https://git.io/typing-svg)
 
