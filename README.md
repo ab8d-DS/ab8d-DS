@@ -34,7 +34,7 @@
 
 ```yaml
 Name: Abdullah Abu Amara
-Location: Jordan 🇯🇴
+Location: Jordan
 Field: Data Science & Machine Learning
 
 Focus:
