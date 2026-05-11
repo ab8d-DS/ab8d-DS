@@ -1,4 +1,4 @@
-<img src='https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030011,20:0a0535,45:1c0060,70:4b0097,90:8b00d4,100:c026d3&text=ABDULLAH%20ABU%20AMARA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20%E2%80%A2%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descSize=17&stroke=d946ef&strokeWidth=2' width="100%"/>
+<img src='https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:020a0a,20:00251a,45:003d2b,70:006644,90:009966,100:00cc7a&text=ABDULLAH%20ABU%20AMARA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20%E2%80%A2%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descSize=17&stroke=34d399&strokeWidth=2' width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Architecting+robust+end-to-end+ML+pipelines+%E2%9A%99%EF%B8%8F;Transforming+raw+data+into+predictive+analytics+%F0%9F%93%8A;Extracting+hidden+signals+from+complex+noise+%F0%9F%94%8D;Building+predictive+models+%F0%9F%9A%80" alt="Typing Animation" />
