@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000010,25:150040,50:3d00cc,72:0040ee,90:00aaff,100:00ffee&text=ABDULLAH%20ABU%20AMARA&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=DATA%20SCIENTIST%20%E2%80%A2%20MACHINE%20LEARNING%20ENGINEER&descAlignY=62&descSize=18&animation=fadeIn&stroke=00ffee&strokeWidth=2](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0a0028,20:1e0060,48:4a0090,72:0055aa,90:00aabb,100:00d4cc&text=ABDULLAH%20ABU%20AMARA&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=DATA%20SCIENTIST%20%E2%80%A2%20MACHINE%20LEARNING%20ENGINEER&descAlignY=62&descSize=18&animation=fadeIn&stroke=00d4cc&strokeWidth=2)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0a0028,20:1e0060,48:4a0090,72:0055aa,90:00aabb,100:00d4cc&text=ABDULLAH%20ABU%20AMARA&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=DATA%20SCIENTIST%20%E2%80%A2%20MACHINE%20LEARNING%20ENGINEER&descAlignY=62&descSize=18&animation=fadeIn&stroke=00d4cc&strokeWidth=2"/>
 </div>
 
 <a href="https://git.io/typing-svg">
