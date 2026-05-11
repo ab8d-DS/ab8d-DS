@@ -1,8 +1,5 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=timeGradient&customColorList=0d1117,1b1d3a,2d1457,E91E8C&text=ABDULLAH%20ABU%20AMARA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20•%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descSize=18"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:1b1d3a,70:2d1457,100:E91E8C&text=ABDULLAH%20ABU%20AMARA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20•%20MACHINE%20LEARNING%20ENGINEER&descAlignY=58&descSize=18"/>
-
-<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Architecting+robust+end-to-end+ML+pipelines+%E2%9A%99%EF%B8%8F;Transforming+raw+data+into+predictive+analytics+%F0%9F%93%8A;Extracting+hidden+signals+from+complex+noise+%F0%9F%94%8D;Building+predictive+models+%F0%9F%9A%80" alt="Typing Animation" />
