@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Architecting+robust+end-to-end+ML+pipelines+%E2%9A%99%EF%B8%8F;Transforming+raw+data+into+predictive+analytics+%F0%9F%93%8A;Extracting+hidden+signals+from+complex+noise+%F0%9F%94%8D;Building+predictive+models+%F0%9F%9A%80" alt="Typing Animation" />
 </a>
 
+</div>
 <br><br>
-</a>
 <a href="https://github.com/ab8d-DS">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E91E8C"/>
 </a>
