@@ -47,3 +47,14 @@ Focus:
 
 Current Goal:
   Building portfolio-level ML projects
+
+---
+
+<h2><b>🧠 Philosophy</b></h2>
+
+<div align="center">
+
+> “The only true wisdom is in knowing you know nothing.”  
+> — Socrates
+
+</div>
