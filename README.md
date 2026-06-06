@@ -46,3 +46,16 @@ abdullah@node-01:~$ ./init_brain.sh
         ├── Pipeline Optimization  --> Designing end-to-end engineering architectures
         ├── Learning Vectors       --> Deep Learning Topologies & Real-world Deployment
         └── Strategy               --> Building portfolio-level production systems
+
+
+🟢 INPUT_LAYER:
+    domain: "Data Engineering & Exploration"
+    stack: ["Python", "Pandas", "NumPy", "PostgreSQL", "Data Visualization"]
+
+🟡 HIDDEN_LAYERS:
+    domain: "Modeling, Deep Learning & Analytics"
+    stack: ["Scikit-Learn", "PyTorch", "TensorFlow", "Advanced Feature Engineering"]
+
+🔴 OUTPUT_LAYER:
+    domain: "Deployment & MLOps Infrastructure"
+    stack: ["Git Version Control", "Docker Containerization", "Linux (WSL2)", "Kaggle Engines"]
