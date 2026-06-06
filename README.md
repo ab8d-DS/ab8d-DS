@@ -30,32 +30,23 @@
 
 ---
 
-<h2><b>⚡ About Me</b></h2>
+<h2><b>⚡ Runtime Environment</b></h2>
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0cDZobDR3djR3dGx5bGQ2MXM2aWhjMTR3YjR5MnQ5bnhvY2Q4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0cDZobDR3djR3dGx5bGQ2MXM2aWhjMTR3YjR5MnQ5bnhvY2Q4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-Name: Abdullah Abu Amara
-Location: Jordan
-Field: Data Science & Machine Learning
-
-Focus:
-  - Machine Learning Pipelines
-  - Predictive Analytics
-  - Feature Engineering
-  - Data Visualization
-
-Current Goal:
-  Building portfolio-level ML projects
-
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Model Optimization
-  - Real-world ML Deployment
-
-Mindset:
-  "Transforming data into intelligence."
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Abdullah Abu Amara"
+        self.location = "Jordan"
+        self.role = "Data Scientist & ML Engineer"
+        self.mindset = "Transforming raw data into operational intelligence."
+        
+    def get_current_focus(self):
+        return {
+            "core_objectives": ["End-to-End ML Pipelines", "Feature Engineering Architectures"],
+            "learning_track": ["Deep Learning", "Model Optimization", "Production Deployment"]
+        }
 ```
 
 ---
